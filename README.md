@@ -23,8 +23,7 @@ Hello there! 👋 I'm Khusnul, a passionate technophile with a knack for softwar
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) 
-- [Twitter](https://twitter.com/your-twitter-handle/)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/mohammad-khusnul-khuluq-53b2051b5/)) 
 - 📧 Email: `ninno@hayago.id`
 
 ---
