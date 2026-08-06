@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=75&lines=IoT+%26+Full-Stack+Engineer+%7C+Robotics+Researcher;Building+intelligent+systems+from+sensors+to+software)](https://git.io/typing-svg)
 
-**Industrial IoT · Embedded Systems · Robotics · AI · Modern Web Platforms**
+**Industrial IoT , Embedded Systems , Robotics , AI , Modern Web Platforms**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ninno.obayan.id-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ninno.obayan.id/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-khusnul-khuluq-53b2051b5/)
@@ -26,7 +26,7 @@
 
 ## Engineering beyond the screen
 
-I am an **IoT and Full-Stack Engineer** from Indonesia who enjoys turning real-world problems into reliable, connected products. My work spans the entire engineering chain—from sensors, embedded firmware, industrial communication, and edge AI to scalable backends, dashboards, and intelligent control.
+I am an **IoT and Full-Stack Engineer** from Indonesia who enjoys turning real-world problems into reliable, connected products. My work spans the entire engineering chainfrom sensors, embedded firmware, industrial communication, and edge AI to scalable backends, dashboards, and intelligent control.
 
 I currently build industrial connected systems while developing research in **robotics, intelligent control, AI-assisted sensing, and autonomous platforms**. I care about systems that do more than look impressive: they must be measurable, maintainable, safe, and useful in the field.
 
@@ -35,9 +35,9 @@ I currently build industrial connected systems while developing research in **ro
 | 🔭 **Currently building** | Industrial IoT platforms, edge gateways, monitoring systems, and robotic prototypes |
 | 🧠 **Researching** | Intelligent UAV control, GNN residual learning, Lyapunov constraints, sensor fusion, and time-series AI |
 | 🏭 **Industry focus** | Cold-chain monitoring, automation, telemetry, edge vision, PLC/relay control, and real-time dashboards |
-| 🎓 **Education** | Bachelor of Applied Science in Electronics Engineering — PENS, Indonesia |
+| 🎓 **Education** | Bachelor of Applied Science in Electronics Engineering  PENS, Indonesia |
 | 🧭 **Long-term direction** | Advanced robotics and control research, with engineering collaboration in Japan |
-| 🌏 **Based in** | Indonesia · Open to global research and engineering collaboration |
+| 🌏 **Based in** | Indonesia , Open to global research and engineering collaboration |
 
 ---
 
@@ -45,10 +45,10 @@ I currently build industrial connected systems while developing research in **ro
 
 ```mermaid
 flowchart TD
-    A["Sensors · PLC · Actuators"] --> B["ESP32 · STM32 · Edge NPU"]
-    B --> C["Modbus · CAN · MQTT · NATS"]
-    C --> D["Django · FastAPI · PostgreSQL"]
-    D --> E["Nuxt · Grafana · Mobile Apps"]
+    A["Sensors , PLC , Actuators"] --> B["ESP32 , STM32 , Edge NPU"]
+    B --> C["Modbus , CAN , MQTT , NATS"]
+    C --> D["Django , FastAPI , PostgreSQL"]
+    D --> E["Nuxt , Grafana , Mobile Apps"]
     E -. "Commands & automation" .-> C
 ```
 
@@ -116,11 +116,40 @@ I am most useful where **hardware, intelligence, and software meet**:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white)
+![Rockchip](https://img.shields.io/badge/Rockchip_RK3588-1F2937?style=flat-square)
+![RKNN](https://img.shields.io/badge/RKNN_Toolkit-0F766E?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&logo=easyeda&logoColor=white)
+
+---
+
+## Featured engineering focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="./assets/flyght-ai-smart-control.png">
+        <img src="./assets/flyght-ai-smart-control.png" width="100%" alt="Flyght AI smart UAV control and robotics dashboard" />
+      </a>
+      <h3 align="center">Flyght AI Smart Control and Robotics</h3>
+      <p align="center">A UAV research workspace for transient tracking, disturbance recovery, digital twin testing, GNN residual learning, Lyapunov safety projection, and real-time flight telemetry.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="./assets/rockchip-rk3588-vision-ai.webp">
+        <img src="./assets/rockchip-rk3588-vision-ai.webp" width="100%" alt="Rockchip RK3588 embedded vision AI development platform" />
+      </a>
+      <h3 align="center">Embedded Vision with Rockchip</h3>
+      <p align="center">Edge AI for camera-based detection, tracking, streaming, and robotic responses using Rockchip RK3588, RKNN, YOLO, OpenCV, and Linux.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>RK3588 board image source: <a href="https://docs.radxa.com/en/rock5/rock5b/getting-started/introduction">Radxa ROCK 5B documentation</a>, licensed under CC BY 4.0.</sub>
+</p>
 
 ---
 
@@ -130,7 +159,7 @@ I am most useful where **hardware, intelligence, and software meet**:
 |---|---|---|
 | **Industrial cold-chain IoT** | Multi-warehouse and chamber monitoring, configurable sensor thresholds, alarms, audit trails, and PLC/relay control | ESP32-C5, Modbus RTU, NATS JetStream, PostgreSQL, Django, Nuxt, Grafana |
 | **Intelligent UAV control** | Dual-arm aerial platform with constrained control, residual learning, telemetry, actuator limits, and disturbance evaluation | SMC, GNN, Lyapunov analysis, Python, C++, embedded control |
-| **Edge vision and robotics** | Real-time detection, tracking, RTSP streaming, and autonomous actuator responses on resource-constrained edge hardware | Luckfox Pico, RK NPU, YOLO, OpenCV, C++, ESP32 |
+| **Embedded vision and robotics** | Real-time detection, tracking, RTSP streaming, and autonomous actuator responses on resource-constrained edge hardware | Rockchip RK3588, Luckfox Pico, RKNN, YOLO, OpenCV, C++, ESP32 |
 | **Industrial controller hardware** | Modular gateways with isolated I/O, ADC/DAC, RS-485, CAN, Ethernet, relay outputs, and OTA-ready firmware | STM32H7, ESP32-C5, W5500, FreeRTOS, EasyEDA |
 | **AI-driven flood monitoring** | Time-series water-level forecasting integrated with sensing and automated pump response | LSTM, GRU, IoT telemetry, Python, TensorFlow |
 
@@ -166,7 +195,7 @@ I am most useful where **hardware, intelligence, and software meet**:
 ## Research and achievements
 
 - Research work around **AI-IoT flood forecasting**, **intelligent UAV control**, and **learning-assisted nonlinear control** for IEEE Industrial Electronics Society venues.
-- **3rd Place — GEMASTIK 2023**, with experience taking multidisciplinary technology projects from concept to national competition.
+- **3rd Place  GEMASTIK 2023**, with experience taking multidisciplinary technology projects from concept to national competition.
 - **PIMNAS / PKM finalist**, working on applied robotics and autonomous delivery systems.
 - Active interests in **Sliding Mode Control, PID and optimal control, Kalman filtering, ROS/SLAM, Graph Neural Networks, and physics-guided machine learning**.
 - Evaluation mindset centered on reproducible metrics: RMSE, overshoot, settling time, constraint violations, success rate, latency, and resource usage.
@@ -183,7 +212,7 @@ I am most useful where **hardware, intelligence, and software meet**:
 
 ### Methods I frequently explore
 
-`Sliding Mode Control` · `Lyapunov Stability` · `Graph Neural Networks` · `LSTM/GRU` · `Kalman Filtering` · `Sensor Fusion` · `Computer Vision` · `ROS/SLAM` · `Digital Twins` · `Hardware-in-the-Loop Testing`
+`Sliding Mode Control` , `Lyapunov Stability` , `Graph Neural Networks` , `LSTM/GRU` , `Kalman Filtering` , `Sensor Fusion` , `Computer Vision` , `ROS/SLAM` , `Digital Twins` , `Hardware-in-the-Loop Testing`
 
 </details>
 
@@ -193,7 +222,7 @@ I am most useful where **hardware, intelligence, and software meet**:
 - **Design for the real environment.** Heat, noise, unstable networks, failed sensors, and human operators are part of the system.
 - **Measure before optimizing.** Decisions should be supported by latency, accuracy, reliability, and resource data.
 - **Keep boundaries clear.** Device, transport, domain, data, and presentation layers should evolve without tightly coupling one another.
-- **Fail safely and visibly.** Timeouts, fallbacks, audit logs, alarms, and recovery paths are product features—not afterthoughts.
+- **Fail safely and visibly.** Timeouts, fallbacks, audit logs, alarms, and recovery paths are product featuresnot afterthoughts.
 - **Build reusable foundations.** A good architecture should make the next device, sensor type, protocol, or interface easier to add.
 
 </details>
@@ -243,6 +272,6 @@ I am open to **research collaboration, IoT and robotics projects, intelligent sy
 <br />
 
 **Mohammad Khusnul Khuluq (Ninno)**  
-*Engineering intelligent systems—from physical signals to meaningful decisions.*
+*Engineering intelligent systemsfrom physical signals to meaningful decisions.*
 
 </div>
