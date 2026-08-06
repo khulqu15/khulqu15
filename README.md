@@ -47,7 +47,7 @@ I currently build industrial connected systems while developing research in **ro
 flowchart TD
     A["Sensors , PLC , Actuators"] --> B["ESP32 , STM32 , Edge NPU"]
     B --> C["Modbus , CAN , MQTT , NATS"]
-    C --> D["Django , FastAPI , PostgreSQL"]
+    C --> D["Django , FastAPI , ASP.NET Core , PostgreSQL"]
     D --> E["Nuxt , Grafana , Mobile Apps"]
     E -. "Commands & automation" .-> C
 ```
@@ -69,6 +69,7 @@ I am most useful where **hardware, intelligence, and software meet**:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -80,6 +81,7 @@ I am most useful where **hardware, intelligence, and software meet**:
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -158,6 +160,7 @@ I am most useful where **hardware, intelligence, and software meet**:
 | Area | What I am building | Core technologies |
 |---|---|---|
 | **Industrial cold-chain IoT** | Multi-warehouse and chamber monitoring, configurable sensor thresholds, alarms, audit trails, and PLC/relay control | ESP32-C5, Modbus RTU, NATS JetStream, PostgreSQL, Django, Nuxt, Grafana |
+| **Panasonic CMMS** | Enterprise maintenance platform supporting equipment records, preventive maintenance, work orders, inspections, and maintenance history | ASP.NET Core, C#, REST API |
 | **Intelligent UAV control** | Dual-arm aerial platform with constrained control, residual learning, telemetry, actuator limits, and disturbance evaluation | SMC, GNN, Lyapunov analysis, Python, C++, embedded control |
 | **Embedded vision and robotics** | Real-time detection, tracking, RTSP streaming, and autonomous actuator responses on resource-constrained edge hardware | Rockchip RK3588, Luckfox Pico, RKNN, YOLO, OpenCV, C++, ESP32 |
 | **Industrial controller hardware** | Modular gateways with isolated I/O, ADC/DAC, RS-485, CAN, Ethernet, relay outputs, and OTA-ready firmware | STM32H7, ESP32-C5, W5500, FreeRTOS, EasyEDA |
