@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Hi, I'm Mohammad Khusnul Khuluq — Ninno 👋
+# Hi, I'm Mohammad Khusnul Khuluq (Ninno) 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=75&lines=IoT+%26+Full-Stack+Engineer+%7C+Robotics+Researcher;Building+intelligent+systems+from+sensors+to+software)](https://git.io/typing-svg)
 
