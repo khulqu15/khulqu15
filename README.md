@@ -131,15 +131,15 @@ I am most useful where **hardware, intelligence, and software meet**:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="./assets/flyght-ai-smart-control.png">
-        <img src="./assets/flyght-ai-smart-control.png" width="100%" alt="Flyght AI smart UAV control and robotics dashboard" />
+      <a href="./Cuplikan layar 2026-08-06 091108.png">
+        <img src="./Cuplikan layar 2026-08-06 091108.png" width="100%" alt="Flyght AI smart UAV control and robotics dashboard" />
       </a>
       <h3 align="center">Flyght AI Smart Control and Robotics</h3>
       <p align="center">A UAV research workspace for transient tracking, disturbance recovery, digital twin testing, GNN residual learning, Lyapunov safety projection, and real-time flight telemetry.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="./assets/rockchip-rk3588-vision-ai.webp">
-        <img src="./assets/rockchip-rk3588-vision-ai.webp" width="100%" alt="Rockchip RK3588 embedded vision AI development platform" />
+      <a href="./Cuplikan layar 2026-08-06 092324.png">
+        <img src="./Cuplikan layar 2026-08-06 092324.png" width="100%" alt="Rockchip RK3588 embedded vision AI development platform" />
       </a>
       <h3 align="center">Embedded Vision with Rockchip</h3>
       <p align="center">Edge AI for camera-based detection, tracking, streaming, and robotic responses using Rockchip RK3588, RKNN, YOLO, OpenCV, and Linux.</p>
